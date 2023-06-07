@@ -7,5 +7,5 @@ Sign language Translation Program based on Python and Deep Learning Model
 Try DataCollection for data collection first, and remember to change the folder. Then test it with test and press the key to compare the current gesture.
 
 # 模型训练方法 Model training method
-使用https://teachablemachine.withgoogle.com/train/image上传图片进行训练。
+使用https://teachablemachine.withgoogle.com/train/image 上传图片进行训练。
 Use https://teachablemachine.withgoogle.com/train/image Upload pictures for training.
